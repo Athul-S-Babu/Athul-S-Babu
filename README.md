@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athul-s-babu&label=Profile%20views&color=0e75b6&style=flat" alt="athul-s-babu" /> </p>
 
-- 🌱 I’m self-taught **Flutter Developer**
+- 🌱 I’m a self-taught **Flutter Developer**
 
 - 💬 Ask me about **Flutter,Dart**
 
